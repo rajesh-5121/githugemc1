@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test3.tst file is created
+=======
+
+>>>>>>> d022c736b6103b4e8e6bdc04f1922131f4888431
